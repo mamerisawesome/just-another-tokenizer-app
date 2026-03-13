@@ -15,7 +15,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-foreground">GPT Tokenizer</h1>
+              <h1 className="text-3xl font-bold text-foreground">Tokenizer</h1>
               <p className="text-muted-foreground mt-2">Count tokens and estimate API costs for OpenAI models</p>
             </div>
             <div className="w-12 h-12 rounded-lg bg-accent flex items-center justify-center">
