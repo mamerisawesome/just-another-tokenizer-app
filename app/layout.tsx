@@ -11,21 +11,7 @@ export const metadata: Metadata = {
   title: ' Tokenizer - Count Tokens & Estimate Costs',
   description: 'Count tokens and estimate API costs for OpenAI models. Includes preset models and custom model support.',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: "/favicon.ico",
   },
 }
 
